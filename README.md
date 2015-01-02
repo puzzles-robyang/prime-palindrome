@@ -2,7 +2,7 @@
 
 ##### CHALLENGE DESCRIPTION:
 
-!(https://www.codeeval.com/static/images/kbase/prime_palindrome.png)
+![alt text](https://www.codeeval.com/static/images/kbase/prime_palindrome.png)
 Write a program which determines the largest prime palindrome less than 1000.
 
 ##### INPUT SAMPLE:
